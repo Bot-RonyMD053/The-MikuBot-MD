@@ -1,17 +1,17 @@
 > <b>👑 Versión actual: 1.0.0</b>
  
 <p align="center"> 
-<a href="https://github.com/The-DiosBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-MikuBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<a href="https://github.com/The-DiosBot-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=The-MikuBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio." height="90px"></a> 
 </p>
 
 <p align="center">
-<a href="#"><img title="MikuBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
+<a href="#"><img title="The-MikuBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 <img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
 </p>  
 
 <p align="center">
 <a href="#"><img title="The-MikuBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="MikuBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
+<a href="#"><img title="The-MikuBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge">
 
 <p align="center">   
 <a href="https://github.com/The-DiosBot-MD/The-MikuBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/The-DiosBot-MD/The-MikuBot-MD?label=Forks&color=blue&style=flat-square"></a>
@@ -123,13 +123,7 @@ grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https:/
 #### Para que no pierda su progreso en The-MikuBot-MD, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
 > **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX             
 -----
-### ✅ QUIERE TENER EL BOT 24/7 ACTIVO ACTIVAR EL BOXMINEHOST  
-[![blog](https://img.shields.io/badge/BoxMine-TheLoliBotMD-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://youtu.be/wWyBHtKzx9Q?si=ihODwzs0pnVhzs5s)
 
-<a href="https://boxmineworld.com"><img src="https://i.imgur.com/allAyd4.png" height="125px"></a>
-### BoxMine World
-----
 ### 🟣 ACTIVAR EN HEROKU 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/elrebelde21/LoliBotMD-Heroku) 
 ### 👇 Añada lo siguente al Buildpack: 
@@ -200,6 +194,3 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 ### 🌟 EDITOR Y PROPIETARIO DEL BOT
 <a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="300" height="300" alt="The-DiosBot-MD"/></a>
-
-## `▢ COLABORADOR DEL BOT` 
-<a href="https://github.com/DavidOficial"><img src="https://github.com/DavidOficial.png" width="100" height="100" alt="DavidOficial"/></a>
