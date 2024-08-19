@@ -64,7 +64,7 @@ termux-setup-storage
 apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 ```bash
-cd storage/downloads/The-MikuBot-MD-master/The-MikuBot-MD-master 
+cd storage/downloads/The-MikuBot-MD
 ```
 ```bash
 yarn install
