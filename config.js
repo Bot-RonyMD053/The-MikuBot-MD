@@ -17,12 +17,12 @@ global.owner = [
 ['595971253989'],
 ['595991230630']]
 
-global.mods = ['595982216131']
-global.prems = ['595971253989'],
+global.mods = [']
+global.prems = [''],
 
 //BETA: Si quiere evitar escribir el número que será bot en la consola, agregué desde aquí entonces:
 //Sólo aplica para opción 2 (ser bot con código de texto de 8 digitos)
-global.botNumberCode = "595994825505" //Ejemplo: +595994836199
+global.botNumberCode = "5" //Ejemplo: +595994836199
 global.confirmCode = "" 
 
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰
@@ -102,15 +102,15 @@ global.ig = 'tiktok.com/@AdrianOficial'
 global.md = 'https://github.com/The-DiosBot-MD/The-MikuBot-MD'
 global.fb = 'https://www.facebook.com/groups/872989990425789/'
 
-global.nna = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/595986637644' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx' //Grupo del Colaboracion
+global.nnnt2 = 'https://chat.whatsapp.com/I7WiWv6cuLJE6x3DiThgzx' // Grupo COL 2
+global.nnntt = 'https://chat.whatsap' //Grupo COL 3
+global.nnnttt = 'https://chat.whatsap' //enlace lolibot
+global.nnntttt = 'https://chat.whaI' //Grupo ayuda sobre el bot
+global.asistencia = 'Wa.me/50376769087' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
